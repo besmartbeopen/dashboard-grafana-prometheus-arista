@@ -10,4 +10,4 @@ The dashboard shows the following metrics:
 * Packet statistics for Errors and Discard
 * Statistics about the transmitted packet types for Unicast, Multicast and Broadcast
 
-Report source available in our Grafana Dashboard GitHub Repository.
+Dashboard available on Grafana.org https://grafana.com/dashboards/10222
